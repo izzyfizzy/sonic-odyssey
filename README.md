@@ -10,7 +10,7 @@ Sonic Odyssey Testnet (Solana L2 EVM)
 
 ➖ Import your Pk Solana Wallet
 
-➖ Open Link :  https://odyssey.sonic.game/?join=dZyOSB
+➖ Open Link :  [https://odyssey.sonic.game/?join=dZyOSB](https://odyssey.sonic.game/?join=yzToiR)
 
 ➖ Connect Wallet and Complete Task
 
